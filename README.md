@@ -5,9 +5,10 @@ following [Kaggle.com]() dataset: [Heart Attack Analysis & Prediction Dataset](h
 
 
 Different methods for data visualization, variables selection, dataset pre-processing and
-ML prediction model selection are presented. Tested models are:
+ML prediction model selection are presented in [the notebook](heart_attack_eda_prediction_notebook.ipynb). Tested models are:
 - Decision Tree
 - Random Forest
 - Support Vector Machines
 - Gradient Boosting
 - XGBoost
+
